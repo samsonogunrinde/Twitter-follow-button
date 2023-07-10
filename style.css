@@ -1,0 +1,17 @@
+button{
+    background-color:white;
+    width:100px;
+      border: 2px solid #cfd9de;
+      border-radius:20px;
+    
+  color:#0f1419;
+    
+  /*   margin-top:0px;
+    margin-bottom:0px;
+    margin-left:20px;
+    margin-right:20px; */
+    
+    padding:10px 20px;
+    
+    font-weight:bold;
+  }
